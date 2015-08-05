@@ -1,0 +1,12 @@
+
+# added by GitSavvy
+target/
+
+# added by GitSavvy
+/src/main/resources/reduced.csv
+
+# added by GitSavvy
+/data/
+
+# added by GitSavvy
+/src/main/resources/
